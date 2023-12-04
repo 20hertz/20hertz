@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @20hertz
-- 👀 I’m interested in audio processing, NFTs, and smart contracts.
-- 🌱 I’m currently learning AudioWorklet, Solidity, data governance, and how to smoke a good brisket.
-- 📫 Reach out to me through IG and Twitter
+- 👀 I’m interested in digital audio processing, mobile/web developement and machine learning.
+- 🌱 I’m currently learning probability & statistics.
 
 <!---
 20hertz/20hertz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
